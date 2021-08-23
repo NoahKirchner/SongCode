@@ -5,7 +5,6 @@ from time import time
 class SpotifyClient:
     CLIENT_ID       = "5d391859c36d4d7c9fb57967e6ea6b65"
     CLIENT_SECRET   = "1df449c2d13d435da980a2aa8fc3f1c9"
-    CLIENT_AUTH     = None
     ACCESS_TOKEN    = None
     LAST_ACCESS     = None
 
